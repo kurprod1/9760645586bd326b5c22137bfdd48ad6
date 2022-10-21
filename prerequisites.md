@@ -1,5 +1,3 @@
-
-
 # Java
 
 ## Windows
@@ -73,8 +71,6 @@
    
    ![Katalon in extracted folder](https://docs.katalon.com/9587ee30-22b2-11ed-9930-0242fe3e4a3f.png)
 
-
-
 # IntelliJ IDEA
 
 ## Windows
@@ -103,269 +99,83 @@
 
 # Selenium WebDriver
 
-| Chromium/Chrome   | [Download](https://chromedriver.storage.googleapis.com/index.html)                |
+| Web Browser       | Download Link                                                                     |
 | ----------------- | --------------------------------------------------------------------------------- |
+| Chromium/Chrome   | [Download](https://chromedriver.storage.googleapis.com/index.html)                |
 | Firefox           | [Download](https://github.com/mozilla/geckodriver/releases)                       |
-| Edge              |                                                                                   |
-|                   | [Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) |
+| Edge              | [Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) |
 | Internet Explorer | [Download](https://selenium-release.storage.googleapis.com/index.html)            |
 | Safari            | Built-in                                                                          |
 | Opera             | [Download](https://github.com/operasoftware/operachromiumdriver/releases)         |
 
-[Chromium/Chrome](https://v1.embednotion.com/embed/internal/99424c83169543549283be8ad0c8875e/2339770459904e5bb1fb4392094d0184)
-
-[Download](https://chromedriver.storage.googleapis.com/index.html)
-
-[Firefox](https://v1.embednotion.com/embed/internal/99424c83169543549283be8ad0c8875e/8a046749be8c483eaf54779b1418d0d4)
-
-[Download](https://github.com/mozilla/geckodriver/releases)
-
-[Edge](https://v1.embednotion.com/embed/internal/99424c83169543549283be8ad0c8875e/dd9b20713ce5473bac94fe293e84f131)
-
-[Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-
-[Internet Explorer](https://v1.embednotion.com/embed/internal/99424c83169543549283be8ad0c8875e/d7d7444e0bc34a9d8bde7d38278a094d)
-
-https://selenium-release.storage.googleapis.com/index.html
-
-[Safari](https://v1.embednotion.com/embed/internal/99424c83169543549283be8ad0c8875e/0f73b967a66544289bec159429e3c551)
-
-Built-in
-
-[Opera](https://v1.embednotion.com/embed/internal/99424c83169543549283be8ad0c8875e/edc5bcadba3842cc899a45f040907e80)
-
-[Download](https://github.com/operasoftware/operachromiumdriver/releases)
-
 Atau untuk lebih lengkapnya bisa mampir ke dokumentasi resmi Selenium [di sini](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/#quick-reference).
 
-# IntelliJ IDEA
+# Cucumber Plugin
+
+Enable plugin Cucumber pada IntelliJ menggunakan langkah berikut.
+
+1. Buka setting dengan kombinasi `Ctrl+Alt+S`.
+
+2. Install plugin berikut dengan urutan:
+   
+   ![Enabling the Cucumber plugin in the settings](https://resources.jetbrains.com/help/img/idea/2022.2/cucumber-plugin.png)
+   
+   1. Gherkin
+   
+   2. Cucumber for Java
+   
+   3. Cucumber for Groovy
+
+3. Restart IntelliJ
+
+# Robot Framework Plugin
+
+Enable plugin Robot Framework pada IntelliJ menggunakan langkah berikut.
+
+1. Buka setting dengan kombinasi `Ctrl+Alt+S`.
+
+2. Install plugin berikut dengan urutan:
+   
+   1. Robot Plugin
+
+3. Restart IntelliJ
+
+# Postman
 
 ## Windows
 
-## Mac
+1. Download Installer di [Download Postman](https://www.postman.com/downloads/)
 
-## Linux
-
-
-
-# IntelliJ IDEA
-
-## Windows
+2. Ikuti langkah instalasi hingga selesai
 
 ## Mac
 
+1. Download Installer di [Download Postman](https://www.postman.com/downloads/)
+
+2. Ikuti langkah instalasi hingga selesai
+
 ## Linux
 
+Instal menggunakan perintah berikut.
 
+```bash
+sudo snap install postman
+```
 
+# Appium
 
+Download Appium Desktop di https://appium.io/downloads.html dan pilih sesuai platform OS masing masing.
 
+![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-21-15-02-51-image.png)
 
+# JMeter
 
+## Windows, Mac, & Linux
 
+1. Download jmeter di https://jmeter.apache.org/download_jmeter.cgi. Pilih bagian binaries.
+   
+   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-21-15-08-15-image.png)
 
+2. Extract jmeter. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3. Lalu jalankan file **jmeter**.
