@@ -4,7 +4,7 @@
 
 1. Pergi ke https://www.java.com/en/download/manual.jsp dan pilih installer.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-20-11-37-32-image.png)
+   ![](2022-10-20-11-37-32-image.png)
 
 2. Setelah download selesai, instal dengan double-click installer tersebut. Ikuti langkah hingga selesai.
    
@@ -16,7 +16,7 @@
 
 1. Pergi ke https://www.java.com/en/download/manual.jsp dan pilih DMG installer.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-20-11-56-25-image.png)
+   ![](2022-10-20-11-56-25-image.png)
 
 2. Setelah download selesai, instal dengan double-click installer tersebut. Ikuti langkah hingga selesai.
    
@@ -45,7 +45,7 @@
 
 1. Klik link download Katalon di [Katalon Studio Free Download | Katalon](https://katalon.com/download/) lalu pilih Standalone Edition.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-20-13-47-09-image.png)
+   ![](2022-10-20-13-47-09-image.png)
 
 2. Setelah mendownload, lakukan **extract** lalu buka katalon.exe.
    
@@ -55,7 +55,7 @@
 
 1. Klik link download Katalon di [Katalon Studio Free Download | Katalon](https://katalon.com/download/) lalu pilih Standalone Edition.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-20-13-50-31-image.png)
+   ![](2022-10-20-13-50-31-image.png)
 
 2. Setelah mendownload, double-click untuk membuka installer. Tunggu proses sampai selesai
    
@@ -65,7 +65,7 @@
 
 1. Klik link download Katalon di [Katalon Studio Free Download | Katalon](https://katalon.com/download/) lalu pilih Standalone Edition.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-20-13-58-27-image.png)
+   ![](2022-10-20-13-58-27-image.png)
 
 2. Setelah mendownload, lakukan **extract** lalu buka katalon.
    
@@ -77,7 +77,7 @@
 
 1. Download Installer di [Download IntelliJ IDEA: The Capable & Ergonomic Java IDE by JetBrains](https://www.jetbrains.com/idea/download/) dengan versi Community.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-20-14-02-56-image.png)
+   ![](2022-10-20-14-02-56-image.png)
 
 2. Ikuti langkah langkah instalasi hingga selesai.
 
@@ -85,7 +85,7 @@
 
 1. Download Installer di [Download IntelliJ IDEA: The Capable & Ergonomic Java IDE by JetBrains](https://www.jetbrains.com/idea/download/) dengan versi Community.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-20-14-04-11-image.png)
+   ![](2022-10-20-14-04-11-image.png)
 
 2. Ikuti langkah langkah instalasi hingga selesai.
 
@@ -166,7 +166,7 @@ sudo snap install postman
 
 Download Appium Desktop di https://appium.io/downloads.html dan pilih sesuai platform OS masing masing.
 
-![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-21-15-02-51-image.png)
+![](2022-10-21-15-02-51-image.png)
 
 # JMeter
 
@@ -174,7 +174,7 @@ Download Appium Desktop di https://appium.io/downloads.html dan pilih sesuai pla
 
 1. Download jmeter di https://jmeter.apache.org/download_jmeter.cgi. Pilih bagian binaries.
    
-   ![](/home/taufikmaulana/.var/app/com.github.marktext.marktext/config/marktext/images/2022-10-21-15-08-15-image.png)
+   ![](2022-10-21-15-08-15-image.png)
 
 2. Extract jmeter. 
 
