@@ -1,5 +1,7 @@
 # Summary
 
+* [Prerequisite](prerequisites.md)
+
 * [Introduction](README.md)
 * [Intro](/1SQAIntro/README.md)
   * [Welcome to Sekolah QA!](/1SQAIntro/1.md)
