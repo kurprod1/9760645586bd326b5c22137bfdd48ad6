@@ -24,6 +24,7 @@
 
 * [Learn Programming Language](/4Prog/README.md)
   * [Introduction](/4Prog/1.md)
+  * [Project: Simple Library](/4Prog/project.md)
   * [Java Tools Preparation](/4Prog/2.md)
   * [Basic Java Syntax](/4Prog/3.md)
   * [Variables & Data Types](/4Prog/4.md)
@@ -50,6 +51,7 @@
 
 * [API Testing](/6API/README.md)
   * [API Introduction](/6API/1.md)
+  * [Project for this section](/6API/project.md)
   * [API Testing](/6API/2.md)
   * [Api Testing 2](/6API/3.md)
   * [Automation API Testing](/6API/4.md)
