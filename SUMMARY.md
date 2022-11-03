@@ -58,6 +58,7 @@
 
 
 * [Mobile Automation Testing Framework](/7Mobile/README.md)
+  * [Project for this section](/7Mobile/project.md)
   * [Mobile Testing](/7Mobile/1.md)
   * [Introduction to Appium](/7Mobile/2.md)
   * [Appium Integrations](/7Mobile/3.md)
@@ -67,6 +68,7 @@
 
 * [Load and Performance Testing](/8Load/README.md)
     * [Introduction](/8Load/1.md)
+    * [Project for this section](/8Load/project.md)
     * [Jmeter](/8Load/2.md)
     * [Load Testing dengan JMeter](/8Load/3.md)
     * [Integrasi dengan Selenium](/8Load/4.md)
